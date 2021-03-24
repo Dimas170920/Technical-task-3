@@ -1,0 +1,19 @@
+.main{
+    padding-left: 10px;
+}
+
+.heroes{
+    display: grid;
+    grid-template-columns: 10% 15% 75%;
+    padding: 10px 10px 10px 10px;
+}
+.item{
+
+}
+.form{
+
+}
+
+.comment{
+
+}
